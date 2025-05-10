@@ -9,3 +9,5 @@ X
 (contracts/manufacturer-verificaiton.clar,d/b/db585c8864a91237cedfe745bd4c6465800e9b6d
 U
 %contracts/product-authentication.clar,0/c/0c0a6e24691c86e059cedcde00f8f2bd6ea46200
+S
+#contracts/temperature-tracking.clar,d/e/de9b18babf79910eaffa9aea72b315aee76dcdcb
